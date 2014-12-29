@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/pksharma/AndroidStudioProjects/uigit/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="abc">EditText text = (EditText)findViewById(R.id.t1);
+        String abc= text .getText().toString();</string>
+    <string name="app_name">GithubFinder</string>
+</resources>
