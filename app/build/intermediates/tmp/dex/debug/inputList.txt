@@ -1,2 +1,0 @@
-/Users/pksharma/AndroidStudioProjects/uigit/app/build/intermediates/classes/debug
-/Users/pksharma/AndroidStudioProjects/uigit/app/build/intermediates/pre-dexed/debug/volley-93bc1752c4b65eaf61a81aa8ebe0ab2bdab893c8.jar

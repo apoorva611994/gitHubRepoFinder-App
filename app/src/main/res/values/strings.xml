@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">GithubFinder</string>
-    <string name="abc">EditText text = (EditText)findViewById(R.id.t1);
-        String abc= text .getText().toString();</string>
-</resources>
